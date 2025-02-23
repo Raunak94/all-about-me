@@ -5,7 +5,7 @@ export default function About() {
         {/* Left Section (Image) */}
         <div className="col-sm-6 d-flex flex-column align-items-center p-2">
           <h1 className="fname mt-5">Raunak Gaggar</h1>
-          <img src="rama.jpeg" alt="My profile" className="raunakimg" />
+          <img src="/rama.jpeg" alt="My profile" className="raunakimg" />
           <p className="email my-2">raunakgaggar94@gmail.com</p>
         </div>
 
